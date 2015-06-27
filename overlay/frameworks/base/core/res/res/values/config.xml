@@ -144,4 +144,8 @@
     <integer name="config_screenBrightnessDoze">5</integer>
     <bool name="config_dozeAfterScreenOff">true</bool>
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
+    
+    <!-- Enable HW Keys by default -->
+     <bool name="config_hwKeysPref">true</bool>
+
 </resources>
