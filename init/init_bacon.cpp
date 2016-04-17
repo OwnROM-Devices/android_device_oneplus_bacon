@@ -1,5 +1,5 @@
 /*
-   Copyright (c) 2014, The CyanogenMod Project
+   Copyright (c) 2016, The CyanogenMod Project
 
    Redistribution and use in source and binary forms, with or without
    modification, are permitted provided that the following conditions are
@@ -51,7 +51,7 @@ static void import_kernel_nv(char *name, int for_emulator)
     }
 }
 
-void vendor_load_properties()
+void init_msm_properties(unsigned long msm_id, unsigned long msm_ver, char *board_type)
 {
     import_kernel_cmdline(0, import_kernel_nv);
 }
