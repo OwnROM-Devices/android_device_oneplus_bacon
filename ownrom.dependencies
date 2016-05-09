@@ -12,9 +12,9 @@
     "revision": "cm-13.0"
   },
   {
-    "repository": "CyanogenMod/android_device_qcom_common",
+    "repository": "android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "remote": "github",
+    "remote": "cm",
     "revision": "cm-13.0"
   },
   {
