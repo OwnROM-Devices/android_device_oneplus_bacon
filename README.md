@@ -9,8 +9,6 @@ The OnePlus One (codenamed _"bacon"_) is a smartphone from OnePlus.
 
 OnePlus One was announced in April 2014. Release date was June 2014.
 
-OnePlus 3T was announced in November 2016. Release date was November 2016.
-
 ## Device specifications
 
 | Device       | OnePlus One                                     | 
